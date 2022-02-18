@@ -10,7 +10,6 @@ Example UE4 project for artistic style transfer, where a new image is created ba
 
 ## Download
 
-Demo project is available on [GitHub](https://github.com/Akiya-Research-Institute/Artistic-Style-Transfer-on-UE4).  
 Please download from the [release](https://github.com/Akiya-Research-Institute/Artistic-Style-Transfer-on-UE4/releases) page.
 
 ## Run the demo
