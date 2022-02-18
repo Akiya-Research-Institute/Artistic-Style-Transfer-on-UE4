@@ -1,6 +1,8 @@
 # Artistic Style Transfer on UE4
 
-Example UE4 project for artistic style transfer, where a new image is created based on two inputs, one representing the artistic style and one representing the content.
+Example UE4 project for artistic style transfer, where a new image is created based on two inputs, one representing the artistic style and one representing the content.  
+[(日本語の説明はこちら)](https://akiya-research-institute.github.io/NNEngine-API/ja/demo-project-overview-style-transfer/
+)
 
 https://user-images.githubusercontent.com/36610547/154606606-eec1763d-8247-4ead-ad3c-ef085ca258d5.mp4
 
