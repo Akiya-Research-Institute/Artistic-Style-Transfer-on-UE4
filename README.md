@@ -2,6 +2,8 @@
 
 Example UE4 project for artistic style transfer, where a new image is created based on two inputs, one representing the artistic style and one representing the content.
 
+https://user-images.githubusercontent.com/36610547/154606606-eec1763d-8247-4ead-ad3c-ef085ca258d5.mp4
+
 ## Environment
 
 - OS: Windows 10 64bit
